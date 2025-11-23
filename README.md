@@ -9,7 +9,8 @@
 Jogo baseado no Google Dino usando como base o código do MaxRohowsky(https://github.com/MaxRohowsky/chrome-dinosaur)
 feito para um projeto escolar sobre progamar em python.
 
-A equipe por trás do jogo é Alice Helena, Barnardo Fontoura, Lucas Petri e Luiz Carlos Brundo.
+## Equipe:
+Alice Helena, Barnardo Fontoura, Lucas Petri e Luiz Carlos Brundo.
 
 🎨 Alice e Lucas cuidaram da parte visual criando os todos os assests usados no Jogo.
 
@@ -17,3 +18,7 @@ A equipe por trás do jogo é Alice Helena, Barnardo Fontoura, Lucas Petri e Lui
 
 🛠Luiz ficou responsavem pela progamação.
 
+
+## Vídeos
+[Explicação da Gameplay](https://youtu.be/j-Vh8NZSH24)
+[Explicação do codigo](https://youtu.be/YYKYRSMMerg)
