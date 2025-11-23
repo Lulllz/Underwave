@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "c:\Users\Luiz\Documents\jogo\Jogo.py", line 928, in menu
+    controls_font = pygame.font.Font('Grand9K Pixel.ttf', 18)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pygame.error: font not initialized
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "c:\Users\Luiz\Documents\jogo\Jogo.py", line 952, in <module>
+    menu(death_count=0)
+  File "c:\Users\Luiz\Documents\jogo\Jogo.py", line 930, in menu
+    controls_font = pygame.font.SysFont(None, 18)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luiz\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pygame\sysfont.py", line 460, in SysFont
+    return constructor(fontname, size, set_bold, set_italic)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Luiz\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pygame\sysfont.py", line 378, in font_constructor
+    font = Font(fontpath, size)
+           ^^^^^^^^^^^^^^^^^^^^
+pygame.error: font not initialized
